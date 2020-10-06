@@ -1,2 +1,2 @@
-# Sample_Repo
-Just an example repo for ECE 16 students to clone
+# ECE 16 Sample Repository
+This repository is just an example of a remote repository. In order to have a copy of this repository on your machine (a local repository), you must clone this project to your computer first.
